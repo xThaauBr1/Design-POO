@@ -11,8 +11,6 @@ target/
 *.iws
 *.iml
 *.ipr
-pom.xml
-DESIGN-POO/src/
 
 ### Eclipse ###
 .apt_generated
